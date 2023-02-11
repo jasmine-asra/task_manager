@@ -1,4 +1,4 @@
-# task_manager
+# Task Manager
 This program requires a user to log in and then allows them to view and add tasks stored in a text file.
 The admin user can also view task completion statistics across all users.
 ## Prerequisites
